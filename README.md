@@ -1,0 +1,2 @@
+# python-fundamental
+rwid study
